@@ -1,0 +1,176 @@
+==================================================
+Device Name       : 0000.0014.0000.010.000.000.000.000.000
+Description       : USB Input Device
+Device Type       : HID (Human Interface Device)
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 27-08-2026 09:51:01
+Registry Time 2   : 27-08-2026 09:51:01
+VendorID          : 413c
+ProductID         : 2113
+Firmware Revision : 33.09
+WCID              : 
+USB Class         : 03
+USB SubClass      : 01
+USB Protocol      : 01
+Hub / Port        : 
+Computer Name     : DESKTOP-6JB69KD
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 7&18b0bf6&0
+Service Name      : HidUsb
+Service Description: @input.inf,%HID.SvcDesc%;Microsoft HID Class Driver
+Driver Filename   : hidusb.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 100 mA
+USB Version       : 2.00
+Driver Description: USB Input Device
+Driver Version    : 10.0.26100.9444
+Driver InfSection : HID_Inst.NT
+Driver InfPath    : input.inf
+Instance ID       : USB\VID_413C&PID_2113&MI_00\6&11425aeb&0&0000
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : 0000.0014.0000.010.000.000.000.000.000
+Description       : USB Input Device
+Device Type       : HID (Human Interface Device)
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 27-08-2026 09:51:01
+Registry Time 2   : 27-08-2026 09:51:01
+VendorID          : 413c
+ProductID         : 2113
+Firmware Revision : 33.09
+WCID              : 
+USB Class         : 03
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-6JB69KD
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 7&194e983b&0
+Service Name      : HidUsb
+Service Description: @input.inf,%HID.SvcDesc%;Microsoft HID Class Driver
+Driver Filename   : hidusb.sys
+Device Class      : 
+Device Mfg        : (Standard system devices)
+Friendly Name     : 
+Power             : 100 mA
+USB Version       : 2.00
+Driver Description: USB Input Device
+Driver Version    : 10.0.26100.9444
+Driver InfSection : HID_Inst.NT
+Driver InfPath    : input.inf
+Instance ID       : USB\VID_413C&PID_2113&MI_01\6&11425aeb&0&0001
+Capabilities      : SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Dell KB216 Wired Keyboard
+Description       : USB Composite Device
+Device Type       : Unknown
+Connected         : Yes
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 
+Registry Time 1   : 13-10-2026 15:03:47
+Registry Time 2   : 29-08-2026 11:28:38
+VendorID          : 413c
+ProductID         : 2113
+Firmware Revision : 33.09
+WCID              : 
+USB Class         : 00
+USB SubClass      : 00
+USB Protocol      : 00
+Hub / Port        : 
+Computer Name     : DESKTOP-6JB69KD
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 6&370fc7d5&0
+Service Name      : usbccgp
+Service Description: @usb.inf,%GenericParent.SvcDesc%;Microsoft USB Generic Parent Driver
+Driver Filename   : usbccgp.sys
+Device Class      : 
+Device Mfg        : (Standard USB Host Controller)
+Friendly Name     : 
+Power             : 100 mA
+USB Version       : 2.00
+Driver Description: USB Composite Device
+Driver Version    : 10.0.26100.9444
+Driver InfSection : Composite.Dev.NT
+Driver InfPath    : usb.inf
+Instance ID       : USB\VID_413C&PID_2113\5&2fcc3441&0&7
+Capabilities      : Removable, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+
+==================================================
+Device Name       : Port_#0001.Hub_#0001
+Description       : HP USB Flash Drive USB Device
+Device Type       : Mass Storage
+Connected         : No
+Safe To Unplug    : Yes
+Disabled          : No
+USB Hub           : No
+Drive Letter      : 
+Serial Number     : 070D2948AEFF8325
+Registry Time 1   : 25-08-2026 09:56:32
+Registry Time 2   : 24-08-2026 12:48:56
+VendorID          : 03f0
+ProductID         : 1985
+Firmware Revision : 1.10
+WCID              : 
+USB Class         : 08
+USB SubClass      : 06
+USB Protocol      : 50
+Hub / Port        : 
+Computer Name     : DESKTOP-6JB69KD
+Vendor Name       : 
+Product Name      : 
+ParentId Prefix   : 
+Service Name      : USBSTOR
+Service Description: @usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver
+Driver Filename   : USBSTOR.SYS
+Device Class      : 
+Device Mfg        : Compatible USB storage device
+Friendly Name     : 
+Power             : 
+USB Version       : 
+Driver Description: USB Mass Storage Device
+Driver Version    : 10.0.26100.9444
+Driver InfSection : USBSTOR_BULK.NT
+Driver InfPath    : usbstor.inf
+Instance ID       : USB\VID_03F0&PID_1985\070D2948AEFF8325
+Capabilities      : Removable, UniqueID, SurpriseRemovalOK
+Install Time      : 
+First Install Time: 
+Connect Time      : 
+Disconnect Time   : 
+==================================================
+

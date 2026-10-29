@@ -1,0 +1,107 @@
+                 Filename : DSCN0040.jpg
+                JFIF_APP1 : Exif
+Main Information
+         ImageDescription : 
+                     Make : NIKON
+                    Model : COOLPIX P6000
+              Orientation : left-hand side
+              XResolution : 300/1
+              YResolution : 300/1
+           ResolutionUnit : Inch
+                 Software : Nikon Transfer 1.1 W
+                 DateTime : 2008:11:01 21:15:11
+         YCbCrPositioning : centered
+           ExifInfoOffset : 268
+            GPSInfoOffset : 926
+Sub Information
+             ExposureTime : 1/131.4Sec
+                  FNumber : F4.1
+          ExposureProgram : Program Normal
+          ISOSpeedRatings : 64
+              ExifVersion : 0220
+         DateTimeOriginal : 2008:10:22 16:55:37
+        DateTimeDigitized : 2008:10:22 16:55:37
+   ComponentConfiguration : YCbCr
+        ExposureBiasValue : EV0.0
+         MaxApertureValue : F2.7
+             MeteringMode : Division
+              LightSource : Unidentified
+                    Flash : Not fired(Compulsory)
+              FocalLength : 6.00(mm)
+                MakerNote : Nikon D100 Format : 3298Bytes (Offset:1164)
+              UserComment :                                                                                                                      
+          FlashPixVersion : 0100
+               ColorSpace : sRGB
+           ExifImageWidth : 640
+          ExifImageHeight : 480
+ExifInteroperabilityOffset : 896
+               FileSource : DSC
+                SceneType : A directly photographed image
+           CustomRendered : Normal process
+             ExposureMode : Auto
+             WhiteBalance : Auto
+         DigitalZoomRatio : 0/100
+        FocalLength(35mm) : 28(mm)
+         SceneCaptureType : Standard
+              GainControl : None
+                 Contrast : Normal
+               Saturation : Normal
+                Sharpness : Normal
+     SubjectDistanceRange : Unknown
+GPS Informtion
+           GPSLatitudeRef : N
+              GPSLatitude : 43 2757.6419999 [DMS]
+          GPSLongitudeRef : E
+             GPSLongitude : 11 5244.8019999 [DMS]
+           GPSAltitudeRef : Sea level
+             GPSTimeStamp : 14:54:00
+            GPSSatellites : 04
+       GPSImgDirectionRef : 
+              GPSMapDatum : WGS-84   
+             GPSDateStamp : 2008:10:23
+Vendor Original Information
+             Data Version : 30313230
+              ISO Setting : ---
+               Color Mode : COLOR
+                  Quality : FINE
+             WhiteBalance : AUTO
+                Sharpness : NORMAL
+                FocusMode : AF-S
+           SpeedLightMode : 
+        Unknown (000A)5,1 : 9321/1000
+                  ISOMode : AUTO
+     Unknown (0010)7,2542 : Offset:1658
+        Unknown (0021)7,8 : Offset:4200
+        Unknown (0022)3,1 : 0
+        Unknown (0029)3,2 : 0,0
+        Unknown (002F)3,1 : 0
+               Image Mode : NORMAL
+         Image Adjustment : NORMAL
+           Lens converter : OFF
+             Digital Tele : 1/1
+                FocusArea : SingleAreaAF (center)
+               Scene Mode : 
+       Unknown (0091)7,18 : Offset:4270
+               Saturation : 0
+           NoiseReduction : OFF
+        Unknown (009B)3,2 : 0,0
+       Unknown (009C)2,20 : 
+        Unknown (009D)3,1 : 0
+        Unknown (009E)3,6 : 0,0,0,0,0,0
+        Unknown (00AA)2,7 : NORMAL
+        Unknown (00AC)2,6 : VR-ON
+       Unknown (00B2)2,10 : NORMAL
+       Unknown (00BD)7,58 : Offset:4350
+       Unknown (0E09)2,32 : COOLPIXP6000V1.0
+        Unknown (0E10)4,1 : 3292
+        Unknown (0E22)3,4 : 0,0,0,0
+ExifR98
+                    ExifR : R98
+                  Version : 0100
+Thumbnail Information
+              Compression : OLDJPEG
+              XResolution : 72/1
+              YResolution : 72/1
+           ResolutionUnit : Inch
+    JPEGInterchangeFormat : 4548
+JPEGInterchangeFormatLength : 5159
